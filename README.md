@@ -30,16 +30,3 @@ Feel free to use and modify this script for your projects. If you find it helpfu
 ## 🤝 Contributions
 
 Contributions, suggestions, and improvements are welcome! Feel free to fork the repository and create pull requests.
-
-## 📄 License
-
-This project is licensed under the GNU General Public License.
-
-This means you can:
-- :white_check_mark: Use the code for any purpose.
-- :white_check_mark: Modify the code to suit your needs.
-- :white_check_mark: Share your changes with others. 
-
-However, you cannot:
-- :x: Share any modifications you make under a different license.
-- :x: Share any modifications or forks, as closed source sofware.
